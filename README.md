@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bernabé Candelario Hernández</h1>
 <h3 align="center">Full Stack Developer, passionate about technology for process optimization 👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bernabehdez&label=Profile%20views&color=0e75b6&style=flat" alt="bernabehdez" /> </p>
 
 - 🌱 I’m currently learning **PowerBI, Docker**
 
